@@ -81,16 +81,16 @@ Assess delivery times and the impact of different shipping modes.
 Customer Retention:
 Identify high-value customers and their buying patterns.
 ## 🔧 Sample Visualization from the Dashboard
-import matplotlib.pyplot as plt
-import pandas as pd
-data = pd.read_csv('Dataset.csv')
+import matplotlib.pyplot as plt \n
+import pandas as pd \n
+data = pd.read_csv('Dataset.csv') \n
 top_products = data.groupby('Product Name')['Sales'].sum().sort_values(ascending=False).head(5)
 
 # Plot
-top_products.plot(kind='bar', color='orange')
-plt.title('Top 5 Products by Sales')
-plt.xlabel('Product Name')
-plt.ylabel('Total Sales')
+top_products.plot(kind='bar', color='orange') \n
+plt.title('Top 5 Products by Sales') \n
+plt.xlabel('Product Name') \n
+plt.ylabel('Total Sales') \n
 plt.show()
 ## 🖼️ Dashboard Preview
 ![image](https://github.com/user-attachments/assets/82ef3e39-5514-4cf0-9a3a-210210013571)
