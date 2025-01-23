@@ -93,7 +93,8 @@ plt.xlabel('Product Name')
 plt.ylabel('Total Sales')
 plt.show()
 ## 🖼️ Dashboard Preview
-![image](https://github.com/user-attachments/assets/7fb69250-be82-4549-bb6f-7f01d6a27ee5)
+![image](https://github.com/user-attachments/assets/82ef3e39-5514-4cf0-9a3a-210210013571)
+
 
 
 
