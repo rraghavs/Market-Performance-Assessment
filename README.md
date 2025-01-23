@@ -63,8 +63,7 @@ Explore the interactive visuals and customize filters for deeper insights:
 Time-based slicers.
 Region, product, and customer segmentation slicers.
 ## 📊 Insights You Can Derive
-1. Sales Trends:
-     Identify seasonal sales patterns and peak performance periods.
+1. Sales Trends: <br> Identify seasonal sales patterns and peak performance periods.
 2. Profitability:
      Evaluate which products, regions, and customer segments generate the most profit.
 3. Shipping Efficiency:
