@@ -15,7 +15,21 @@ Purpose: Interactive Power BI dashboard that visualizes key metrics and trends d
 File Name: Dataset.csv
 Number of Records: 5,901
 Number of Columns: 23
-Key Columns:
+##### Key Columns:
+| Column Name         | Description                                                  |
+|---------------------|--------------------------------------------------------------|
+| `Order ID`          | Unique identifier for each order.                            |
+| `Order Date`        | Date when the order was placed.                              |
+| `Ship Date`         | Date when the order was shipped.                             |
+| `Customer Name`     | Full name of the customer.                                   |
+| `Segment`           | Customer segment (e.g., Consumer, Corporate).               |
+| `Region`            | Sales region of the order.                                  |
+| `Product Name`      | Name of the product sold.                                    |
+| `Sales`             | Total sales amount for the product.                         |
+| `Quantity`          | Number of items sold.                                       |
+| `Profit`            | Profit generated from the sale.                             |
+| `Returns`           | Indicates if a product was returned.                        |
+
 ## 🚀 Features of the Power BI Dashboard
 Sales Overview:
 Total sales, total profit, and number of orders (KPIs).
@@ -69,11 +83,7 @@ Identify high-value customers and their buying patterns.
 ## 🔧 Sample Visualization from the Dashboard
 import matplotlib.pyplot as plt
 import pandas as pd
-
-# Load dataset
 data = pd.read_csv('Dataset.csv')
-
-# Top 5 products by sales
 top_products = data.groupby('Product Name')['Sales'].sum().sort_values(ascending=False).head(5)
 
 # Plot
@@ -83,4 +93,7 @@ plt.xlabel('Product Name')
 plt.ylabel('Total Sales')
 plt.show()
 ## 🖼️ Dashboard Preview
+![image](https://github.com/user-attachments/assets/7fb69250-be82-4549-bb6f-7f01d6a27ee5)
+
+
 
