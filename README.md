@@ -63,23 +63,23 @@ Explore the interactive visuals and customize filters for deeper insights:
 Time-based slicers.
 Region, product, and customer segmentation slicers.
 ## 📊 Insights You Can Derive
-Sales Trends:
-Identify seasonal sales patterns and peak performance periods.
-Profitability:
-Evaluate which products, regions, and customer segments generate the most profit.
-Shipping Efficiency:
-Assess delivery times and the impact of different shipping modes.
-Customer Retention:
-Identify high-value customers and their buying patterns.
+1. Sales Trends:
+     Identify seasonal sales patterns and peak performance periods.
+2. Profitability:
+     Evaluate which products, regions, and customer segments generate the most profit.
+3. Shipping Efficiency:
+     Assess delivery times and the impact of different shipping modes.
+4. Customer Retention:
+     Identify high-value customers and their buying patterns.
 ## 📊 Insights You Can Derive
-Sales Trends:
-Identify seasonal sales patterns and peak performance periods.
-Profitability:
-Evaluate which products, regions, and customer segments generate the most profit.
-Shipping Efficiency:
-Assess delivery times and the impact of different shipping modes.
-Customer Retention:
-Identify high-value customers and their buying patterns.
+1. Sales Trends:
+     Identify seasonal sales patterns and peak performance periods.
+2. Profitability:
+     Evaluate which products, regions, and customer segments generate the most profit.
+3. Shipping Efficiency:
+     Assess delivery times and the impact of different shipping modes.
+4. Customer Retention:
+     Identify high-value customers and their buying patterns.
 
 ## 🖼️ Dashboard Preview
 ![image](https://github.com/user-attachments/assets/82ef3e39-5514-4cf0-9a3a-210210013571)
