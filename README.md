@@ -31,27 +31,27 @@ Number of Columns: 23
 | `Returns`           | Indicates if a product was returned.                        |
 
 ## 🚀 Features of the Power BI Dashboard
-Sales Overview:
-Total sales, total profit, and number of orders (KPIs).
+1. Sales Overview:
+        **Total sales, total profit, and number of orders (KPIs).**
 Monthly and yearly sales trends (line chart).
-Product Analysis:
-Top 10 products by sales and profit (bar charts).
-Category-wise and sub-category-wise performance analysis (stacked charts).
-Regional Insights:
-Sales and profit by region (map visualization).
-Heatmaps for performance comparison across states and cities.
-Customer Segmentation:
-Segment-wise sales and profit distribution (pie and column charts).
-Customer-specific insights and order history.
-Returns Analysis:
-Insights into returned products and their impact on overall profit.
+2. Product Analysis:
+        **Top 10 products by sales and profit (bar charts).**
+        **Category-wise and sub-category-wise performance analysis (stacked charts).**
+3. Regional Insights:
+        **Sales and profit by region (map visualization).**
+        **Heatmaps for performance comparison across states and cities.**
+4. Customer Segmentation:
+        **Segment-wise sales and profit distribution (pie and column charts).**
+        **Customer-specific insights and order history.**
+5. Returns Analysis:
+        **Insights into returned products and their impact on overall profit.**
 ## 🛠️ Tools and Technologies
-Power BI Desktop:
-Used for data visualization and dashboard creation.
-Power Query:
-Data cleaning and transformation.
-Python/Excel (Optional):
-Pre-processing or additional data analysis before importing into Power BI.
+1. Power BI Desktop:
+        **Used for data visualization and dashboard creation.**
+2. Power Query:
+        **Data cleaning and transformation.**
+3. Python/Excel (Optional):
+        **Pre-processing or additional data analysis before importing into Power BI.**
 ## 🗂️ Steps to Use the Project
 #### 1️⃣ Dataset Preparation
 Ensure Dataset.csv is available in the same directory as the .pbix file.
